@@ -227,7 +227,7 @@ PassPilot tackles *study paralysis* — the fear of too much to study in too lit
 * **Shreya Padmakumar** – Team Lead, UI & Documentation
   Handled the comprehensive documentation of the project and assisted with frontend design
 
-* **S Murugan** –  AI & RAG Specialist
+* **S Murugan** –  AI & RAG
   Designed the RAGAnalyzer pipeline using LangChain, Gemini, ChromaDB, and PDF processing. Handled DevOps & Architecture
   
 
